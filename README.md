@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./images/coding-background-9izlympnd0ovmpli.jpg" alt="Header Image" width="500" />
+  <img src="./images/coding-background-9izlympnd0ovmpli.jpg" alt="Header Image" width="400" />
 </p>
 <h1 align="center">Hi , I'm Fabiana <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
