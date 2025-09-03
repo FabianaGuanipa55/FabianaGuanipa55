@@ -8,7 +8,9 @@
   <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" style="vertical-align: middle;">&nbsp;
   About Me
 </h2>
-
+<a target="_blank" align="center">
+  <img align="right" top="400" height="300" width="200" alt="Profile Image" src="https://raw.githubusercontent.com/FabianaGuanipa55/FabianaGuanipa55/main/images/imageprofile.jpeg">
+</a>
 <em>
 <b>Welcome to my profile!</b>
 </em>
@@ -19,11 +21,6 @@
   <ol>🛠️ During the course, I used various development tools and environments to get hands-on experience.</ol>
   <ol>📈 My goal is to continue growing, build solid foundations, and become more confident in the tech field.</ol>
   <ol>🚀 I'm always motivated to learn and improve, both technically and personally.</ol>
-</p>
-<p>
-<em>
-  <b align="center">Thought : "Nunca es tarde para emprender un nuevo rumbo, vivir una nueva historia o construir un nuevo sueño"</b>
-</em>
 </p>
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <p>
